@@ -9,3 +9,9 @@
   - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
 4. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 Click the Load unpacked button and select the extension directory.
+
+***
+# What It Does
+- Removes non-CPP codeblocks from gfg website
+![with enhanced gfg](images/with_enhanced_gfg.png)
+![without enhanced gfg](images/without_enhanced_gfg.png)
